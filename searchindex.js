@@ -1,1 +1,1 @@
-Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0},titles:["Welcome to Valia&#8217;s course&#8217;s documentation!"],titleterms:{cours:0,document:0,indic:0,tabl:0,valia:0,welcom:0}})
+Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0},titles:["Valia&#8217;s course"],titleterms:{cours:0,valia:0}})
