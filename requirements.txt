@@ -1,0 +1,4 @@
+# Requirements file
+# Use with:  pip install -r requirements.txt
+sphinx
+ghp-import
