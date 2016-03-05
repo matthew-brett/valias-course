@@ -262,8 +262,7 @@ if "%1" == "pseudoxml" (
 
 if "%1" == "github" (
 	%SPHINXBUILD% -b html %ALLSPHINXOPTS% %BUILDDIR%/html
-	echo placeholder > %BUILDDIR%/html/.nojekyll
-	python -m ghp_import %BUILDDIR%/html/
+	ghp-import -n -p -f %BUILDDIR%/html/
 	if errorlevel 1 exit /b 1
 	echo.
 	echo Published to Github
